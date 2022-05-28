@@ -1,0 +1,14 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.inheritEnv": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=120"
+    ],
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.colorCustomizations": {
+        "contrastActiveBorder": "#ffffffff",
+        "editor.selectionHighlightBorder": "#ffffffff"
+    }
+}
