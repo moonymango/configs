@@ -1,17 +1,29 @@
 {
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.colorCustomizations": {
+        "contrastActiveBorder": "#ffffffff",
+        "editor.selectionHighlightBorder": "#ffffffff"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "extensions.ignoreRecommendations": true,
+    "dotnet.codeLens.enableReferencesCodeLens": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.inlineSuggest.enabled": true,
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.inheritEnv": false,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": [
         "--max-line-length=120"
     ],
-    "editor.inlineSuggest.enabled": true,
-    "workbench.colorTheme": "Tomorrow Night Blue",
-    "workbench.colorCustomizations": {
-        "contrastActiveBorder": "#ffffffff",
-        "editor.selectionHighlightBorder": "#ffffffff"
-    },
-
     "git.enabled": false,
     "git.path": null,
     "git.autofetch": false
