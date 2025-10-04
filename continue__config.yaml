@@ -1,0 +1,11 @@
+name: Local Agent
+version: 1.0.0
+schema: v1
+models:
+  - name: Claude
+    provider: anthropic
+    model: claude-3-5-haiku-20241022
+    apiKey: 
+    roles:
+      - autocomplete
+      - edit
